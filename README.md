@@ -21,4 +21,4 @@ Here are some technologies on which I'm currently working on:
 
 ## Let's Connect :handshake:
 
-email: **developwithanmol@gmail.com**
+Email: **developwithanmol@gmail.com**
